@@ -1,0 +1,6 @@
+{
+  "name": "工业设备智能管控系统",
+  "description": "基于工业互联网技术的工业设备智能管控系统，实现设备台账、点检、巡检、维保与维修全生命周期实时监测与闭环管理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
